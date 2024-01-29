@@ -14,6 +14,7 @@ const Banner = () => {
                <div  className='w-2/4'>
                     <h2 className='text-center text-4xl font-semibold my-44 text-cyan-400'>Design Your Own Home</h2>
                 </div>
+                
             </div>
         </div>
     );
