@@ -4,6 +4,7 @@ import CoverImg from '../../../assets/cover.jpg'
 const Banner = () => {
     return (
         <div>
+            
             <img className='rounded-sm w-fit' src={CoverImg} alt="" />
             <div className='flex'>
                <div className='w-2/4 text-justify px-8 my-4 py-20 border text-xl text-sky-800'>
